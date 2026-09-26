@@ -1,6 +1,6 @@
 # Olá, eu sou Matheus 
 
-Sou desenvolvedor de software voltado mais para o lado backend em python, mas já atuei como desenvolvedor fullstack com ASP.net Core e Angular . Minha empolgação por tecnologia surgiu através de filmes sobre IA e jogos. É fascinante o impacto das IA no mundo.
+Sou desenvolvedor de software voltado mais para o lado backend. Já atuei como desenvolvedor fullstack com ASP.net Core, Angular e SQLServer.
 
 # Tecnologias, Ferramentas e OS
 
